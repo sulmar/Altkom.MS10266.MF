@@ -1,4 +1,4 @@
-# You've added your first ReadMe file!
+# Przykłady ze szkolenia MS 10266
 Przykłady ze szkolenia
 
 
